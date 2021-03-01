@@ -1,8 +1,0 @@
-{
-    "lhost": "127.0.0.1",
-    "lport": 7777,
-    "domain": "localhost",
-    "pool": "pool.croat.fairhash.org:3333",
-    "addr": "CsGRABRKbpH8Sfqm9xEp9WXL9DMJVM4wv3hih5GHMgV5LGCSdhULsAKHKym1gPEoJM54MGVk1eEhxBKg6DmdcfrZJ78fyzy",
-    "pass": "x"
-}
